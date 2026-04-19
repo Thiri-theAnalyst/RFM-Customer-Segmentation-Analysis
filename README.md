@@ -58,3 +58,9 @@ Use scoring for analysis, and segmentation for storytelling & decision-making.
 📌 Key Takeaway
 
 This project demonstrates that data analysis is not only about calculating metrics, but about understanding customer value and turning insights into strategic actions.
+
+## 📊 RFM Customer Segmentation Dashboard
+
+![RFM Dashboard](./images/rfm_dashboard.JPG)
+
+The dashboard visualizes customer distribution and revenue contribution across RFM segments. It highlights key patterns such as revenue concentration, segment imbalance, and opportunities for customer growth and retention.
