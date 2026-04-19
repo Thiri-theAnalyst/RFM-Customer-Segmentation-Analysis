@@ -61,6 +61,6 @@ This project demonstrates that data analysis is not only about calculating metri
 
 ## 📊 RFM Customer Segmentation Dashboard
 
-![RFM Dashboard](./images/rfm_dashboard.JPG)
+![RFM Dashboard](rfm_dashboard.JPG)
 
 The dashboard visualizes customer distribution and revenue contribution across RFM segments. It highlights key patterns such as revenue concentration, segment imbalance, and opportunities for customer growth and retention.
